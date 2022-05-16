@@ -1,0 +1,22 @@
+year,Country,open_time,1,time1,2,time2,3,time3,4,time4,GoalsScored,QualifiedTeams,MatchesPlayed,Attendance
+1930,Uruguay,America/Montevideo,Uruguay,America/Montevideo,Argentina,America/Argentina/Buenos_Aires,USA,America/New_York,Yugoslavia,Europe/Belgrade,70,13,18,590.549
+1934,Italy,Europe/Rome,Italy,Europe/Rome,Czechoslovakia,Europe/Prague,Germany,Europe/Berlin,Austria,Europe/Vienna,70,16,17,363
+1938,France,Europe/Paris,Italy,Europe/Rome,Hungary,Europe/Budapest,Brazil,America/Sao_Paulo,Sweden,Europe/Stockholm,84,15,18,375.7
+1950,Brazil,America/Sao_Paulo,Uruguay,America/Montevideo,Brazil,America/Sao_Paulo,Sweden,Europe/Stockholm,Spain,Europe/Madrid,88,13,22,1.045.246
+1954,Switzerland,Europe/Zurich,Germany,Europe/Berlin,Hungary,Europe/Budapest,Austria,Europe/Vienna,Uruguay,America/Montevideo,140,16,26,768.607
+1958,Sweden,Europe/Stockholm,Brazil,America/Sao_Paulo,Sweden,Europe/Stockholm,France,Europe/Paris,Germany,Europe/Berlin,126,16,35,819.81
+1962,Chile,America/Santiago,Brazil,America/Sao_Paulo,Czechoslovakia,Europe/Prague,Chile,America/Santiago,Yugoslavia,Europe/Belgrade,89,16,32,893.172
+1966,England,Europe/London,England,Europe/London,Germany,Europe/Berlin,Portugal,Europe/Lisbon,Russia,Europe/Moscow,89,16,32,1.563.135
+1970,Mexico,America/Mexico_City,Brazil,America/Sao_Paulo,Italy,Europe/Rome,Germany,Europe/Berlin,Uruguay,America/Montevideo,95,16,32,1.603.975
+1974,Germany,Europe/Berlin,Germany,Europe/Berlin,Netherlands,Europe/Amsterdam,Poland,Europe/Warsaw,Brazil,America/Sao_Paulo,97,16,38,1.865.753
+1978,Argentina,America/Argentina/Buenos_Aires,Argentina,America/Argentina/Buenos_Aires,Netherlands,Europe/Amsterdam,Brazil,America/Sao_Paulo,Italy,Europe/Rome,102,16,38,1.545.791
+1982,Spain,Europe/Madrid,Italy,Europe/Rome,Germany,Europe/Berlin,Poland,Europe/Warsaw,France,Europe/Paris,146,24,52,2.109.723
+1986,Mexico,America/Mexico_City,Argentina,America/Argentina/Buenos_Aires,Germany,Europe/Berlin,France,Europe/Paris,Belgium,Europe/Brussels,132,24,52,2.394.031
+1990,Italy,Europe/Rome,Germany,Europe/Berlin,Argentina,America/Argentina/Buenos_Aires,Italy,Europe/Rome,England,Europe/London,115,24,52,2.516.215
+1994,USA,America/New_York,Brazil,America/Sao_Paulo,Italy,Europe/Rome,Sweden,Europe/Stockholm,Bulgaria,Europe/Sofia,141,24,52,3.587.538
+1998,France,Europe/Paris,France,Europe/Paris,Brazil,America/Sao_Paulo,Croatia,Europe/Zagreb,Netherlands,Europe/Amsterdam,171,32,64,2.785.100
+2002,Korea/Japan,Asia/seoul,Brazil,America/Sao_Paulo,Germany,Europe/Berlin,Turkey,Europe/Istanbul,South Korea,Asia/seoul,161,32,64,2.705.197
+2006,Germany,Europe/Berlin,Italy,Europe/Rome,France,Europe/Paris,Germany,Europe/Berlin,Portugal,Europe/Lisbon,147,32,64,3.359.439
+2010,South Africa,Africa/Johannesburg,Spain,Europe/Madrid,Netherlands,Europe/Amsterdam,Germany,Europe/Berlin,Uruguay,America/Montevideo,145,32,64,3.178.856
+2014,Brazil,America/Sao_Paulo,Germany,Europe/Berlin,Argentina,America/Argentina/Buenos_Aires,Netherlands,Europe/Amsterdam,Brazil,America/Sao_Paulo,171,32,64,3.386.810
+2018,Russia,Europe/Moscow,France,Europe/Paris,Croatia,Europe/Zagreb,Belgium,Europe/Brussels,England,Europe/London,169,32,64,3.031.768
