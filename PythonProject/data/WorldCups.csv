@@ -1,4 +1,4 @@
-year,Country,open_time,1,time1,2,time2,3,time3,4,time4,GoalsScored,QualifiedTeams,MatchesPlayed,Attendance
+year,Country,open_time,Winner,time1,Runners-Up,time2,Third,time3,Fourth,time4,GoalsScored,QualifiedTeams,MatchesPlayed,Attendance
 1930,Uruguay,America/Montevideo,Uruguay,America/Montevideo,Argentina,America/Argentina/Buenos_Aires,USA,America/New_York,Yugoslavia,Europe/Belgrade,70,13,18,590.549
 1934,Italy,Europe/Rome,Italy,Europe/Rome,Czechoslovakia,Europe/Prague,Germany,Europe/Berlin,Austria,Europe/Vienna,70,16,17,363
 1938,France,Europe/Paris,Italy,Europe/Rome,Hungary,Europe/Budapest,Brazil,America/Sao_Paulo,Sweden,Europe/Stockholm,84,15,18,375.7
